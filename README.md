@@ -9,10 +9,6 @@ and interesting when it fails.**
 
 `Cloud` · `DevOps` · `AWS` · `Terraform` · `Kubernetes` · `Security`
 
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdullah_Alghamdi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-alghamdii-/)
-
 </div>
 
 ---
@@ -130,9 +126,8 @@ Going deeper, not wider.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-let's_connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-alghamdii-/)
-[![GitHub](https://img.shields.io/badge/GitHub-NVX--11-181717?style=flat-square&logo=github)](https://github.com/NVX-11)
-
-<br><br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdullah_Alghamdi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-alghamdii-/)
+[![Email](https://img.shields.io/badge/Email-abdullah.alg628%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdullah.alg628@gmail.com)
+[![Credly](https://img.shields.io/badge/Credly-Certifications-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/abdullah-alghamdi.9046cd9e/badges/credly)
 
 </div>
