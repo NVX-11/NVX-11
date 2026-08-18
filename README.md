@@ -53,19 +53,7 @@ Right now, I'm spending more time on the fundamentals behind the tools:
 
 ## certifications
 
-<p align="center">
-  <a href="https://www.credly.com/org/amazon-web-services/badge/aws-certified-solutions-architect-associate">
-    <img src="https://images.credly.com/size/160x160/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" height="145" alt="AWS Certified Solutions Architect – Associate" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://developer.hashicorp.com/certifications/infrastructure-automation">
-    <img src="https://developer.hashicorp.com/_next/static/media/terraform-badge-mini-associate.1419a397.svg" height="145" alt="HashiCorp Certified: Terraform Associate" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.credly.com/org/amazon-web-services/badge/aws-certified-cloud-practitioner">
-    <img src="https://images.credly.com/size/160x160/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" height="145" alt="AWS Certified Cloud Practitioner" />
-  </a>
-</p>
+<p align="center"><img src="https://images.credly.com/size/160x160/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="150" alt="AWS Certified Solutions Architect – Associate">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://images.credly.com/images/85b9cfc4-257a-4742-878c-4f7ab4a2631b/twitter_thumb_201604_image.png" width="150" alt="HashiCorp Certified: Terraform Associate (003)">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://images.credly.com/size/160x160/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="150" alt="AWS Certified Cloud Practitioner"></p>
 
 ---
 
