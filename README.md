@@ -129,6 +129,5 @@ Going deeper, not wider.
 
 <br><br>
 
-<sub>cloud infrastructure · automation · systems · security</sub>
 
 </div>
