@@ -51,6 +51,20 @@ Right now, I'm spending more time on the fundamentals behind the tools:
 
 ---
 
+## certifications
+
+<div align="center">
+
+![AWS Solutions Architect Associate](https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Terraform Associate](https://img.shields.io/badge/HashiCorp-Terraform_Associate-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+</div>
+
+I keep the certificates here as context, not as the whole story. The part I care about more is what I can actually build, troubleshoot, and explain with the tools behind them.
+
+---
+
 ## things I've built
 
 ### Multi-Cloud Failover
@@ -128,6 +142,5 @@ Going deeper, not wider.
 [![GitHub](https://img.shields.io/badge/GitHub-NVX--11-181717?style=flat-square&logo=github)](https://github.com/NVX-11)
 
 <br><br>
-
 
 </div>
