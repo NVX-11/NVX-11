@@ -55,13 +55,19 @@ Right now, I'm spending more time on the fundamentals behind the tools:
 
 <div align="center">
 
-![AWS Solutions Architect Associate](https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Terraform Associate](https://img.shields.io/badge/HashiCorp-Terraform_Associate-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
-![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+<a href="https://www.credly.com/org/amazon-web-services/badge/aws-certified-solutions-architect-associate">
+  <img src="https://images.credly.com/size/160x160/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="155" alt="AWS Certified Solutions Architect – Associate" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://developer.hashicorp.com/certifications/infrastructure-automation">
+  <img src="https://images.credly.com/size/160x160/images/ed4be915-68f8-428a-b332-40ded9084ee5/blob" width="155" alt="HashiCorp Certified: Terraform Associate" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.credly.com/org/amazon-web-services/badge/aws-certified-cloud-practitioner">
+  <img src="https://images.credly.com/size/160x160/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="155" alt="AWS Certified Cloud Practitioner" />
+</a>
 
 </div>
-
-I keep the certificates here as context, not as the whole story. The part I care about more is what I can actually build, troubleshoot, and explain with the tools behind them.
 
 ---
 
