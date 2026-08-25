@@ -58,11 +58,7 @@ Right now, I'm spending more time strengthening the fundamentals behind the tool
 
 <br><br>
 
-<sub>◇  ───────────────────  ◇</sub>
-
-### PER AUDACIA AD ASTRA
-
-<sub>───────────────────────</sub>
+<img src="assets/per-audacia-ad-astra.svg" width="100%" alt="PER AUDACIA AD ASTRA">
 
 <br>
 
