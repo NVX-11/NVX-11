@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="170" viewBox="0 0 900 170" role="img" aria-labelledby="title desc">
+  <title id="title">PER AUDACIA AD ASTRA</title>
+  <desc id="desc">A minimal animated starfield footer with the phrase PER AUDACIA AD ASTRA.</desc>
+
+  <style>
+    .motto {
+      fill: #57606a;
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 22px;
+      font-weight: 500;
+      letter-spacing: 7px;
+    }
+
+    .line {
+      stroke: #8c959f;
+      stroke-width: 1;
+      opacity: 0.55;
+    }
+
+    .mark {
+      fill: none;
+      stroke: #6e7781;
+      stroke-width: 1;
+      opacity: 0.85;
+    }
+
+    .star {
+      fill: #6e7781;
+      opacity: 0.45;
+      transform-box: fill-box;
+      transform-origin: center;
+    }
+
+    .s1 { animation: twinkle 5.8s ease-in-out infinite; }
+    .s2 { animation: twinkle 7.1s ease-in-out 1.3s infinite; }
+    .s3 { animation: twinkle 6.4s ease-in-out 2.1s infinite; }
+    .s4 { animation: twinkle 8.2s ease-in-out .8s infinite; }
+    .s5 { animation: twinkle 7.6s ease-in-out 3.2s infinite; }
+
+    .motto, .line, .mark {
+      animation: arrive 1.4s ease-out both;
+    }
+
+    @keyframes twinkle {
+      0%, 100% { opacity: 0.18; transform: scale(0.75); }
+      50%      { opacity: 0.85; transform: scale(1.15); }
+    }
+
+    @keyframes arrive {
+      from { opacity: 0; }
+      to   { opacity: 1; }
+    }
+
+    @media (prefers-color-scheme: dark) {
+      .motto { fill: #d0d7de; }
+      .line  { stroke: #8b949e; }
+      .mark  { stroke: #b1bac4; }
+      .star  { fill: #b1bac4; }
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+      .s1, .s2, .s3, .s4, .s5, .motto, .line, .mark {
+        animation: none;
+      }
+    }
+  </style>
+
+  <g aria-hidden="true">
+    <circle class="star s1" cx="92" cy="42" r="1.7"/>
+    <circle class="star s2" cx="208" cy="112" r="1.3"/>
+    <circle class="star s3" cx="336" cy="33" r="1.4"/>
+    <circle class="star s4" cx="665" cy="46" r="1.5"/>
+    <circle class="star s5" cx="806" cy="116" r="1.7"/>
+    <circle class="star s2" cx="742" cy="27" r="1.1"/>
+    <circle class="star s4" cx="147" cy="135" r="1.1"/>
+
+    <line class="line" x1="125" y1="116" x2="390" y2="116"/>
+    <line class="line" x1="510" y1="116" x2="775" y2="116"/>
+
+    <path class="mark" d="M450 108 L458 116 L450 124 L442 116 Z"/>
+    <circle class="mark" cx="450" cy="116" r="2.2"/>
+  </g>
+
+  <text class="motto" x="450" y="82" text-anchor="middle">PER AUDACIA AD ASTRA</text>
+</svg>
