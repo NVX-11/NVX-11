@@ -4,10 +4,7 @@
 
 ### `NVX-11`
 
-**I like cloud infrastructure that is boring when it works —  
-and interesting when it fails.**
-
-`Cloud` · `DevOps` · `AWS` · `Terraform` · `Kubernetes` · `Security`
+<img src="assets/profile-notes.svg" width="100%" alt="NVX-11 profile notes">
 
 </div>
 
