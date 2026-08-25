@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="105" viewBox="0 0 900 105" role="img" aria-labelledby="title desc">
+  <title id="title">NVX-11 rotating profile notes</title>
+  <desc id="desc">A small animated personal header cycling through three short notes.</desc>
+
+  <style>
+    .note {
+      fill: #57606a;
+      font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+      font-size: 17px;
+      font-weight: 400;
+      letter-spacing: 0.35px;
+      text-anchor: middle;
+    }
+
+    .n1 { opacity: 1; animation: n1 15s ease-in-out infinite; }
+    .n2 { opacity: 0; animation: n2 15s ease-in-out infinite; }
+    .n3 { opacity: 0; animation: n3 15s ease-in-out infinite; }
+
+    .spark {
+      fill: #8c959f;
+      opacity: 0.25;
+      transform-box: fill-box;
+      transform-origin: center;
+    }
+
+    .s1 { animation: twinkle 6.5s ease-in-out infinite; }
+    .s2 { animation: twinkle 8s ease-in-out 2s infinite; }
+    .s3 { animation: twinkle 7.2s ease-in-out 1s infinite; }
+
+    @keyframes n1 {
+      0%, 27% { opacity: 1; }
+      33%, 94% { opacity: 0; }
+      100% { opacity: 1; }
+    }
+
+    @keyframes n2 {
+      0%, 31% { opacity: 0; }
+      38%, 60% { opacity: 1; }
+      67%, 100% { opacity: 0; }
+    }
+
+    @keyframes n3 {
+      0%, 64% { opacity: 0; }
+      71%, 93% { opacity: 1; }
+      100% { opacity: 0; }
+    }
+
+    @keyframes twinkle {
+      0%, 100% { opacity: 0.15; transform: scale(0.8); }
+      50% { opacity: 0.65; transform: scale(1.15); }
+    }
+
+    @media (prefers-color-scheme: dark) {
+      .note { fill: #c9d1d9; }
+      .spark { fill: #8b949e; }
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+      .n1 { animation: none; opacity: 1; }
+      .n2, .n3, .s1, .s2, .s3 { animation: none; opacity: 0; }
+    }
+  </style>
+
+  <g aria-hidden="true">
+    <circle class="spark s1" cx="135" cy="22" r="1.4"/>
+    <circle class="spark s2" cx="760" cy="31" r="1.2"/>
+    <circle class="spark s3" cx="815" cy="78" r="1.5"/>
+  </g>
+
+  <text class="note n1" x="450" y="58">clouds, terminals, games, and side quests.</text>
+  <text class="note n2" x="450" y="58">probably reading docs i didn't plan to open.</text>
+  <text class="note n3" x="450" y="58">building things just to see what happens.</text>
+</svg>
