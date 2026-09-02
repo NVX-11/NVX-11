@@ -12,11 +12,11 @@
 
 ## about
 
-I'm focused on cloud infrastructure, DevOps, and automation.
+I build things, break things, read way too much documentation, and occasionally understand why any of it worked.
 
-Most of what I work with revolves around AWS, Terraform, Kubernetes, CI/CD, and infrastructure security.
+Most days that means cloud infrastructure, Linux, Terraform, Kubernetes, and whatever rabbit hole I accidentally opened.
 
-Right now, I'm spending more time strengthening the fundamentals behind the tools: **Linux, networking, and troubleshooting.**
+The rest is games, side quests, and probably another tab I forgot to close.
 
 ---
 
